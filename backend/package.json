@@ -10,9 +10,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mongoose": "^5.11.11"
+    "express-validator": "^6.14.0",
+    "is-empty": "^1.2.0",
+    "local-storage": "^2.0.0",
+    "mongoose": "^5.11.11",
+    "mongoose-fuzzy-searching": "^2.0.2",
+    "validator": "^13.7.0"
   }
 }
