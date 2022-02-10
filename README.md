@@ -42,6 +42,6 @@ npm install/
 npm start
 ```
 
-If getting reference errors (example: BigInt is not defined), try using an updated version of nodeJS. (using nvm is a quick solution).
+If getting reference errors (example: BigInt is not defined), try using an updated version of nodeJS (using nvm is a quick solution).
 
 Navigate to [http://localhost:3000/](http://localhost:3000/) in your browser.
