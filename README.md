@@ -30,7 +30,7 @@ In case of errors in starting mongoDB on Debian, refer: https://mongoing.com/doc
 
 ```sh
 cd backend/
-npm install
+npm install --legacy-peer-deps 
 npm start
 ```
 
